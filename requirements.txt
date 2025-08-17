@@ -3,3 +3,5 @@ scikit-learn
 numpy
 scipy
 pandas
+tensorflow==2.15.0
+tensorflow-hub==0.12.0
