@@ -1,2 +1,2 @@
-echo "3.11" > runtime.txt
 python-3.10
+
